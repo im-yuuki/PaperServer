@@ -14,6 +14,10 @@
 # !world*/
 # !world*/**
 
+!world*/
+!world*/*
+!world*/paper-world*.yml
+
 !plugins/
 plugins/*
 !plugins/**.jar

@@ -1,4 +1,6 @@
-java -Xmx1536M -Xms1536M ^
+@echo off
+
+java -Xms1536M -Xmx1536M ^
     -XX:+AlwaysPreTouch ^
     -XX:+DisableExplicitGC ^
     -XX:+ParallelRefProcEnabled ^
