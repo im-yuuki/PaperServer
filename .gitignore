@@ -1,0 +1,25 @@
+# Exclude everything
+**
+
+# Include these files/folders
+!.gitignore
+!server.properties
+!*.jar
+!start.*
+!eula.txt
+
+# !**.json
+# !**.yml
+
+# !world*/
+# !world*/**
+
+!plugins/
+plugins/*
+!plugins/**.jar
+
+!plugins/*/
+plugins/*/*
+!plugins/*/*.yml
+
+!plugins/Skript/clearlag.sk
