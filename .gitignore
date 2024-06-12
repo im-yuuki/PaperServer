@@ -15,7 +15,7 @@
 # !world*/**
 
 !world*/
-!world*/*
+world*/*
 !world*/paper-world*.yml
 
 !plugins/
@@ -27,4 +27,6 @@ plugins/*/*
 !plugins/*/config.yml
 
 !plugins/floodgate/*.jar
-!plugins/Skript/clearlag.sk
+!plugins/Skript/
+!plugins/Skript/scripts/
+!plugins/Skript/scripts/*.sk
