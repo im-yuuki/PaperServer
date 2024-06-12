@@ -7,6 +7,8 @@
 !*.jar
 !start.*
 !eula.txt
+!bukkit.yml
+!spigot.yml
 
 # !**.json
 # !**.yml
