@@ -20,6 +20,7 @@ plugins/*
 
 !plugins/*/
 plugins/*/*
-!plugins/*/*.yml
+!plugins/*/config.yml
 
+!plugins/floodgate/*.jar
 !plugins/Skript/clearlag.sk
