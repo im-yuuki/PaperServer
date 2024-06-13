@@ -30,7 +30,7 @@ settings:
   save-user-cache-on-stop-only: true
   bungeecord: false
   sample-count: 12
-  log-villager-deaths: true
+  log-villager-deaths: false
   log-named-deaths: true
 commands:
   silent-commandblock-console: false

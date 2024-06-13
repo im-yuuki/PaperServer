@@ -19,9 +19,11 @@
 !world*/
 world*/*
 !world*/paper-world*.yml
+!cache/
 
 !plugins/
 plugins/*
+plugins/bStats
 !plugins/**.jar
 
 !plugins/*/
